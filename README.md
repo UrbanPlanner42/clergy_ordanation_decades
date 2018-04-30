@@ -1,4 +1,4 @@
 # Clergy Ordanation by Decades
 
 
-Study the age that different generations became an Episcopalian priest.  The script create different csv for further study of the priest population
+Small script that analysis ordanation age of clergy in different generations became an Episcopalian priest.  The script create different csv for further study of the priest population
